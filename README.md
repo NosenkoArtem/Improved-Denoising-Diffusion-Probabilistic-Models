@@ -36,6 +36,12 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2102.09672x)] \
 
 ## Videos
 
+**Diffusion Models, part 1** \
+*Grigory Bartosh*
+[[Video](https://www.youtube.com/watch?v=3-KzIjoFJy4&ab_channel=BayesGroup.ru)] \
+[[Presentation](https://github.com/bayesgroup/bayesgroup.github.io/blob/master/bmml_sem/2021/Bartosh_Diffusion%20Models%20Part_1.pdf)] \
+Fall 2021
+
 **Langevin dynamics for sampling and global optimization** \
 *Kirill Neklyudov* \
 [[Video](https://www.youtube.com/watch?v=3-KzIjoFJy4&ab_channel=BayesGroup.ru)] \
